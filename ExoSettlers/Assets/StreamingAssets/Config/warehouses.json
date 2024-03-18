@@ -1,0 +1,10 @@
+{
+	"inital-warehouse": {
+		"warehouseName": "Starter Warehouse",
+		"warehouseCapacity": "75"
+	},
+	"more-warehouse": {
+		"warehouseName": "Awesome Warehouse",
+		"warehouseCapacity": "100"
+	}
+}
